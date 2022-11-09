@@ -1,0 +1,25 @@
+* {
+	transition: all 0.5s;
+	background: url("media/conej.jpg") repeat fixed center;
+	background-size: 100% 100%;
+	font-family: "Verdana";
+	color: white;
+}
+body {
+	
+}
+.titl h1 {
+	border-bottom: solid;
+	border-width: 5px;
+	border-color: white;
+	color: black;
+	margin-top: 0px;
+	padding: 10px;
+	position: fixed;
+	background: #EFB279 fixed;
+	font-size: 52px;
+	text-align: center;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
